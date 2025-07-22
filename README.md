@@ -43,6 +43,7 @@ node server.js
 # Open a new terminal and navigate to the folder frontend
 cd ../frontend
 npm run dev
+# Click the local link
 ```
 
 ## Example
